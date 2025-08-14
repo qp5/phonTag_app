@@ -1,5 +1,5 @@
 # PhonTag
-<b>Android Mobile App ‒ AI Assistant</b>&nbsp;<br>
+<b>Android Mobile App ‒ Call & SMS Assistant</b>&nbsp;<br>
 Unique highbred app, integrates with your default dialer & SMS app.<br>
 
 
